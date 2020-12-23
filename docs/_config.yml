@@ -1,0 +1,13 @@
+# This theme is based on https://github.com/jekyll/minima
+# Please refer above link to know the available configurations
+
+title: eYY3yp project template
+remote_theme: cepdnaclk/eYY-project-theme
+description: "Github Page Template"
+
+#theme: jekyll-theme-minimal
+
+# logo: /assets/img/logo.png
+
+# show_downloads: true
+# google_analytics:
