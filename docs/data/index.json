@@ -28,7 +28,7 @@
       }
    ],
    "description":"This is a breif intruduction of the project. You need to use plain text without any specific characters here",
-   "tags":["Web","Embedded Systems"],
+   "tags":["Web"],
    "image":"img_cover.jpg",
    "thumbnail":"img_thumbnail.jpg"
 }
