@@ -3,8 +3,8 @@ layout: home
 permalink: index.html
 
 # Please update this with your repository name and title
-repository-name: eYY-project-template
-title: 
+repository-name: eYY-XXX-project-template
+title:
 ---
 
 [comment]: # "This is the standard layout for the project, but you can clean this and use your own template"
@@ -35,8 +35,8 @@ title:
 
 ## Links
 
-- [Project Repository](https://github.com/cepdnaclk/{{ page.repository-name }}){:target="\_blank"}
-- [Project Page](https://cepdnaclk.github.io/{{ page.repository-name}}){:target="\_blank"}
+- [Project Repository](https://github.com/cepdnaclk/{{ page.repository-name }}){:target="_blank"}
+- [Project Page](https://cepdnaclk.github.io/{{ page.repository-name}}){:target="_blank"}
 - [Department of Computer Engineering](http://www.ce.pdn.ac.lk/)
 - [University of Peradeniya](https://eng.pdn.ac.lk/)
 
