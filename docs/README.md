@@ -1,27 +1,27 @@
 ---
 layout: home
 permalink: index.html
+
+# Please update this with your repository name and title
+repository-name: eYY-project-template
+title: 
 ---
 
-<div class="container p-2 mb-4">
-    <img class="img-fluid" src="./data/img_cover.jpg" style="width:100%" />
-</div>
+[comment]: # "This is the standard layout for the project, but you can clean this and use your own template"
 
 # Project Title
+
+---
 
 ## Team
 -  eNumber, Name, [email](mailto:name@email.com)
 -  eNumber, Name, [email](mailto:name@email.com)
 -  eNumber, Name, [email](mailto:name@email.com)
 
-
 ## Table of Contents
 1. [Introduction](#introduction)
-2. [Solution Architecture](#solution-architecture )
-3. [Designs](#design)
-4. [Testing](#testing)
-5. [Conclusion](#conclusion)
-6. [Links](#links)
+2. [Other Sub Topics](#other-sub-topics)
+3. [Links](#links)
 
 ---
 
@@ -29,29 +29,17 @@ permalink: index.html
 
  description of the real world problem and solution, impact
 
-## Solution Architecture
+## Other Sub Topics
 
- high level diagram + description
-
-## Design
-
- detailed designs with many sub-sections
-
-## Testing
-
- testing done on hardware and software, detailed + summarized results
-
-## Conclusion
-
- what was achieved, future developments, commercialization plans
+.....
 
 ## Links
 
-- [Project Repository](https://github.com/cepdnaclk/repository-name)
+- [Project Repository](https://github.com/cepdnaclk/{{ page.repository-name }}){:target="\_blank"}
+- [Project Page](https://cepdnaclk.github.io/{{ page.repository-name}}){:target="\_blank"}
 - [Department of Computer Engineering](http://www.ce.pdn.ac.lk/)
 - [University of Peradeniya](https://eng.pdn.ac.lk/)
 
-- [Custom Page](page_1)
 
 [//]: # (Please refer this to learn more about Markdown syntax)
 [//]: # (https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
