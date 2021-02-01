@@ -1,4 +1,5 @@
 {
+   "visibility": false,
    "title":"This is the title of the project",
    "team":[
       {
@@ -28,7 +29,5 @@
       }
    ],
    "description":"This is a breif intruduction of the project. You need to use plain text without any specific characters here",
-   "tags":["Web"],
-   "image":"img_cover.jpg",
-   "thumbnail":"img_thumbnail.jpg"
+   "tags":[]
 }
