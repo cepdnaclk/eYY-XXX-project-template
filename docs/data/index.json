@@ -31,7 +31,7 @@
             "title": "Paper Title",
             "authors": "Person1, Person2, ...",
             "venue": "Journal or Conference Name",
-            "doi": "#",
+            "doi": "#"
         }
     ],
     "tags": ["Web", "Embedded Systems"]
